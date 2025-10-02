@@ -1,0 +1,23 @@
+ What I Learned
+
+🔹 1. Normal Arrays
+	•	Declaring and initializing arrays in Java
+	•	Accessing elements using index
+	•	Traversing an array with loops
+	•	Basic insertion (at the end / fixed position by shifting elements)
+	•	Deletion (removing element by shifting left)
+	•	Searching (linear search to find a value)
+
+🔹 2. Arrays Using Classes (Encapsulation of Array Logic)
+	•	Creating a class with an internal int[] arr
+	•	Adding methods like:
+	•	insert(int value) → add element to array
+	•	delete(int value) → find and remove element
+	•	search(int value) → return index if found, else -1
+	•	display() → show all array elements
+	•	Learned the advantage:
+	        •	Cleaner and reusable code
+	        •	Encapsulation of array operations in a single class
+	        •	Easier to manage multiple arrays
+
+
